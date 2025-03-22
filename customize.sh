@@ -123,8 +123,8 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "      NH Wireless Firmware     "
-  ui_print "            - rithvikvibhu     "
+  ui_print "      Nethunter wifi     "
+  ui_print "            - beastmode     "
   ui_print "*******************************"
 }
 
